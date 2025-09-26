@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "毛俊翔 / 个人介绍"
+title                    : "Junxiang Mao / My academic homepage"
 title_separator          : "-"
-name                     : &name "毛俊翔"
-description              : &description "毛俊翔的个人介绍"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Junxiang Mao"
+description              : &description "my academic homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jxmao-cn.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "jxmao-cn/jxmao-cn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Junxiang Mao"
   pronouns         : "he/his"  
   bio              : "Currently, I am studying in the Software Engineering program at Soochow University. I will enroll in the Computer Science College of Zhejiang University to pursue a doctoral degree next year."
-  location         : "No. 333, Ganjiang East Road, Gu Suzhou District, Suzhou City, Jiangsu Province"
+  location         : #"No. 333, Ganjiang East Road, \n Gu Suzhou District, Suzhou City, Jiangsu Province"
   employer         : "Soochow University"
   uri              : # URL
   email            : "jxmao@stu.suda.edu.cn" 
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : "Soochow University"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
