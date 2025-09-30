@@ -58,6 +58,14 @@
       {% endfor %}
     </div>
     {% endif %}
+    
+    {% if cv.basics.cv_pdf %}
+    <div class="cv-download" style="margin-top: 1rem;">
+      <a href="{{ cv.basics.cv_pdf }}" class="btn btn--primary" target="_blank">
+        <i class="fas fa-file-pdf"></i> Download CV PDF
+      </a>
+    </div>
+    {% endif %}
   </div>
   
   {% if cv.basics.summary %}

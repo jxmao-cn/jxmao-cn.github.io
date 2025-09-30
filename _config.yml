@@ -26,21 +26,21 @@ author:
   avatar           : "profile.jpg"
   name             : "Junxiang Mao"
   pronouns         : "he/his"  
-  bio              : "Currently, I am studying in the Software Engineering program at Soochow University. I will enroll in the Computer Science College of Zhejiang University to pursue a doctoral degree next year."
+  bio              : #"Currently, I am studying in the Software Engineering program at Soochow University. I will enroll in the Computer Science College of Zhejiang University to pursue a doctoral degree next year."
   location         : #"No. 333, Ganjiang East Road, \n Gu Suzhou District, Suzhou City, Jiangsu Province"
   employer         : "Soochow University"
   uri              : # URL
   email            : "jxmao@stu.suda.edu.cn" 
 
   # Academic websites
-  academia         : "Soochow University"
+  academia         : #"Soochow University"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
