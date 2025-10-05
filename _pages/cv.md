@@ -11,54 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D candidate in Computer Science, Zhejiang University, 2031 (expected)
+* B.S. in Computer Science, Soochow University, 2026 (expected)
 
-Work experience
+Award
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **National Scholarship**, Soochow University, 2024
+* First-class Academic Scholarship, Soochow University, 2023 & 2024 (ranked 1st in major both years)
+* Merit Student, Soochow University, 2024 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Outstanding Student leaders, Soochow University, 2024
+* Alibaba Cloud Campus Ambassador, Soochow University, 2024
+
+***
+
+For more details, you can download my PDF version of CV [here](/files/cv-maojunxiang.pdf).
