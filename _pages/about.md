@@ -15,6 +15,4 @@ Contact with me:
 - Student Email: [jxmao@stu.suda.edu.cn](mailto:jxmao@stu.suda.edu.cn) (This is my student email and will be abandoned soon after my graduation at Soochow University and I will replace it with my student email at zju.edu.cn)  
 - GitHub: [jxmao-cn](https://github.com/jxmao-cn)
 
-To get my PDF version of my CV, please click [here](https://jxmao-cn.github.io/files/cv-maojunxiang.pdf).
-
 More information will be released soon!
