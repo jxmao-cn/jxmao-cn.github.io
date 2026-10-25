@@ -1,18 +1,23 @@
 ---
 permalink: /
-title: "A Brief Self-introduction "
+title: "My homepage has moved"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi, I’m Junxiang Mao, a senior undergraduate student majoring in Software Engineering at Soochow University. 
-In September 2025, I was admitted via direct admission—without an entrance examination—into the Computer Science College of Zhejiang University. Starting next year, I will be joining the State Key Laboratory of CAD&CG at Zhejiang University to pursue a direct doctoral degree under the supervision of Prof. [Kun Zhou](http://kunzhou.net/). My research interests lie primarily in **3D reconstruction and computer graphics**.  
+My academic homepage has moved to a new address:
 
-Contact with me:
-- Personal Email: [maojunxiangg@gmail.com](mailto:maojunxiangg@gmail.com) 
-- Student Email: [jxmao@stu.suda.edu.cn](mailto:jxmao@stu.suda.edu.cn) (This is my student email and will be abandoned soon after my graduation at Soochow University and I will replace it with my student email at zju.edu.cn)  
+## [Visit my new homepage →](https://junxiang-mao.divinechime64.chatgpt.site/)
+
+The new site includes my updated profile, research interests in **physics simulation and computer graphics**, and current CV.
+
+- [Updated CV](https://junxiang-mao.divinechime64.chatgpt.site/cv/)
+- [Download my latest CV (PDF)](https://junxiang-mao.divinechime64.chatgpt.site/files/cv-maojunxiang.pdf)
+- Contact: [maojunxiang@zju.edu.cn](mailto:maojunxiang@zju.edu.cn)
 - GitHub: [jxmao-cn](https://github.com/jxmao-cn)
 
-More information will be released soon!
+This GitHub Pages site remains available as an archive. Existing [CV](/cv/) and file URLs are retained; archived material may be out of date.
+
+*Moved on October 25, 2026.*
